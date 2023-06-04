@@ -1,4 +1,5 @@
-# DiscordBot-EdgeGPT
+# NOT KATY AI
+# BING AI BASED ON CHATGPT-4
 > ## Using Microsoft's Bing Chat AI and Bing Image Creator on discord bot.
 
 ## Update
@@ -116,17 +117,6 @@ pip install -r requirements.txt
 
 4. Start run your bot, hosted locally or on a server.
 
-   -> Recommended Free Servers: [fly.io](https://fly.io/)
+   -> Recommended Free Servers: Replit
+   This Bot Comes with pre-installed API key with microsoft alt acc
 
-## Credits
-* EdgeGPT - [https://github.com/acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)
-* BingImageCreator - [https://github.com/acheong08/BingImageCreator](https://github.com/acheong08/BingImageCreator)
-* other - [https://github.com/Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-
- <a href="https://github.com/FuseFairy/DiscordBot-EdgeGPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FuseFairy/DiscordBot-EdgeGPT" />
- </a>
